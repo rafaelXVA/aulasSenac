@@ -1,4 +1,5 @@
 
+import os
 while True:
     nome=input("Insira um nome: ")
     idade=int(input("Insira uma idade: "))
@@ -10,6 +11,7 @@ while True:
     if back=="S":
         break
     else:
+        os.system("cls")
         continue
 
 while len(list[0])<4: 
