@@ -5,4 +5,4 @@ except ValueError:
 except:
     print("erro desconhecido")
 finally:
-    print("final do algoritmo")
+    print("final do algoritmo   ")
