@@ -11,4 +11,4 @@ notas = {
     "rafael": 9.0,
     "tiago": 6.5
 }
-print(media(notas_alunos))  
+print(media(notas))  

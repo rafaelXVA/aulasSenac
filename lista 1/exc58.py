@@ -4,5 +4,5 @@ def cont(x):
         if char.isupper():
             count += 1
     return count
-x = "america ya america"
+x = "america Ya america"
 print(cont(x))  
